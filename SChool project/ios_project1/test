@@ -1,7 +1,0 @@
-#!/bin/bash
-
-echo $(date -d "2026-02-22 09:44:54")
-clean_date=$(echo 22/Feb/2026:09:24:33| sed 's/\//-/g')
-clean_date=$(echo $clean_date | sed 's/:/ /')
-echo $clean_date
-echo $(date -d "$clean_date")
