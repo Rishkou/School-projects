@@ -1,0 +1,50 @@
+
+3: V 1: started
+4: V 1: boarding started
+5: V 2: started
+6: N 2: started
+7: N 1: started
+8: N 3: started
+9: N 2: queue
+10: N 2: boarding
+11: N 1: queue
+12: N 1: boarding
+13: N 4: started
+14: N 3: queue
+15: N 3: boarding
+16: N 5: started
+17: N 4: queue
+18: N 4: boarding
+19: N 6: started
+20: N 7: started
+21: N 6: queue
+22: N 6: boarding
+23: N 5: queue
+24: N 8: started
+25: N 5: boarding
+26: N 7: queue
+27: N 7: boarding
+28: N 8: queue
+29: N 8: boarding
+30: N 9: started
+31: N 10: started
+32: N 9: queue
+33: N 9: boarding
+34: N 10: queue
+35: N 10: boarding
+36: V 1: boarding complete
+37: V 1: leaving started
+38: D: closing
+39: V 2: closed
+40: N 2: leaving
+41: N 1: leaving
+42: N 3: leaving
+43: N 4: leaving
+44: N 6: leaving
+45: N 5: leaving
+46: N 7: leaving
+47: N 8: leaving
+48: N 9: leaving
+49: N 10: leaving
+50: V 1: leaving complete
+51: V 1: closed
