@@ -1,0 +1,9 @@
+########## ANALYSIS ##########
+
+########## SYNTHESIS ##########
+
+########## SIMULATION1 ##########
+../../src/synopsys/std_logic_arith.vhdl:255:21:@0ms:(assertion warning): There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+../../src/synopsys/std_logic_arith.vhdl:255:21:@0ms:(assertion warning): There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+../../src/synopsys/std_logic_arith.vhdl:255:21:@0ms:(assertion warning): There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+
